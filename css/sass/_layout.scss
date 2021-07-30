@@ -8,7 +8,16 @@
     position: fixed;
 
     padding: 48px 16px;
+    img{
+        width:60px;
+        
+        justify-content: center;
+        align-items: center;
+        
+    }
 }
+
+
 
 @media screen and (max-width: 960px){
     .menu-left{
